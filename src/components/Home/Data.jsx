@@ -55,7 +55,7 @@ const Data = () => {
                 </svg>
             </h1>
             <h3 className='home_subtitle'>
-            UX UI Designer & Front-End Developer
+            Front-End Developer & UX UI Designer
             </h3>
             <p className='home_description'>
             Passionate about problem-solving and creativity, trained in front-end development and I am now expanding my skills with a UX/UI design course. I work on building efficient websites and web apps, continually learning and honing my skills to deliver quality, user-centered solutions.
