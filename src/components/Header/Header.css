@@ -7,6 +7,7 @@
     background-color: var(--body-color);
     }
     .nav {
+
         height: calc(var(--header-height) + 1.5rem) ;
         display: flex;
         justify-content: space-between;
@@ -33,7 +34,7 @@
         font-size: var(--small-font-size);
         color: var(--title-color);
         font-weight: var(--font-medium);
-        transition: .3s;
+        transition: .3s ease-in-out;
         
     }
     
@@ -46,6 +47,8 @@
     .active_link,
     .nav_link:hover{
         color: var(--title-color-dark);
+        font-weight:var(--font-semi-bold);
+        /* border-bottom: 2px solid var(--title-color); */
     }
 
 
@@ -102,7 +105,8 @@
     }
 
 .nav_toggle{
-font-weight: 1.1rem;
+font-weight: 1.2rem;
+font-size: larger;
 cursor: pointer;
 }
     .nav_icon,
