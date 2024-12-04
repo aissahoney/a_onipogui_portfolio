@@ -14,11 +14,11 @@ const
                             className="uil uil-linkedin-alt"
                             ></i>
     </a>
-    <a href="https://www.behance.net/aissatoonipogu" className='home_social-icon' target="_blank" >
+    {/* <a href="https://www.behance.net/aissatoonipogu" className='home_social-icon' target="_blank" >
     <i
                             className="uil uil-behance-alt"
                             ></i>
-    </a>
+    </a> */}
 
     </div>
   )
