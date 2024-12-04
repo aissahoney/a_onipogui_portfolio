@@ -23,13 +23,13 @@ const Header = () => {
                         </a>
                     </li>
 
-                    <li className="nav_item">
+                    {/* <li className="nav_item">
                         <a href="#about" className="nav_link">
                             <i
                                 className="uil uil-user nav_icon"
                             ></i> About
                         </a>
-                    </li>
+                    </li> */}
                     
                     <li className="nav_item">
                         <a href="#skills" className="nav_link">
@@ -58,7 +58,7 @@ const Header = () => {
                     </li>
 
                     <li className="nav_item">
-                        <a href="#contact" className="nav_link">
+                        <a href="mailto:a.onipogui@interface3.be?subject=Demande%20de%20contact&body=Bonjour%20!" className="nav_link">
                             <i
                                 className="uil uil-message nav_icon"
                             ></i>

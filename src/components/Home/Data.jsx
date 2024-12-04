@@ -60,7 +60,7 @@ const Data = () => {
             <p className='home_description'>
             Passionate about problem-solving and creativity, trained in front-end development and I am now expanding my skills with a UX/UI design course. I work on building efficient websites and web apps, continually learning and honing my skills to deliver quality, user-centered solutions.
             </p>
-            <a href="#contact" className="button button--flex">
+            <a href="https://www.linkedin.com/in/aissatou-onipogui/" target="_blank" rel="noopener noreferrer" className="button button--flex">
                 Say Hello
 
                 <svg
