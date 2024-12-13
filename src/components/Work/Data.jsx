@@ -7,11 +7,10 @@ import Work4 from "../../assets/eshop.png"
 export const projectsData = [
     {
         id:1,
-        image: Work1,
-        title:"Web development",
-        category:"web",
-        language:"html css dom js sass",
-        at:"https://aissahoney.github.io/Projet_Dom_Onipogui_Aissatou/"
+        image: Work4,
+        title:"Web design (soon)",
+        language:"figma",
+        category:"design",
     },
     {
         id:2,
@@ -28,15 +27,14 @@ export const projectsData = [
         category:"web",
         language:"html css reactjs",
         at:"https://projet-state-onipogui-aissatou.vercel.app/"
-    
-
     },
     {
         id:4,
-        image: Work4,
-        title:"Web design (soon)",
-        language:"figma",
-        category:"design",
+        image: Work1,
+        title:"Web development",
+        category:"web",
+        language:"html css dom js sass",
+        at:"https://aissahoney.github.io/Projet_Dom_Onipogui_Aissatou/"
       
     },
     // {
