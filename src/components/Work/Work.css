@@ -69,6 +69,9 @@
     margin-bottom: var(--mb-1);
 }
 
+.work_language {
+    font-size: var(--smal-font-size);
+}
 .work_button {
 color: var(--text-color);
 font-size: var(--small-font-size);

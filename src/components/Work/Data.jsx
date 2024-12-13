@@ -10,6 +10,7 @@ export const projectsData = [
         image: Work1,
         title:"Web development",
         category:"web",
+        language:"html css dom js sass",
         at:"https://aissahoney.github.io/Projet_Dom_Onipogui_Aissatou/"
     },
     {
@@ -17,13 +18,15 @@ export const projectsData = [
         image: Work2,
         title:"Web development",
         category:"web",
+        language:"html css reactjs",
         at:"https://countries-flag-topaz.vercel.app/"
     },
     {
         id:3,
         image: Work3,
-       title:"Web development",
+        title:"Web development",
         category:"web",
+        language:"html css reactjs",
         at:"https://projet-state-onipogui-aissatou.vercel.app/"
     
 
@@ -32,6 +35,7 @@ export const projectsData = [
         id:4,
         image: Work4,
         title:"Web design (soon)",
+        language:"figma",
         category:"design",
       
     },
