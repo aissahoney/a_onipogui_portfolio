@@ -13,7 +13,6 @@ const Frontend = () => {
                             <h3 className="skills_name">
                                 HTML
                             </h3>
-
                             <span className="skills_level">
                                 Advanced
                             </span>
@@ -23,14 +22,25 @@ const Frontend = () => {
                 <div className="skills_group">
                     <div className="skills_data">
                         <i class='bx bx-badge-check' ></i>
-
                         <div>
                             <h3 className="skills_name">
                                 CSS
                             </h3>
-
                             <span className="skills_level">
                             Advanced
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div className="skills_group">
+                    <div className="skills_data">
+                        <i class='bx bx-badge-check' ></i>
+                        <div>
+                            <h3 className="skills_name">
+                                SASS
+                            </h3>
+                            <span className="skills_level">
+                            Intermediate
                             </span>
                         </div>
                     </div>
@@ -59,6 +69,34 @@ const Frontend = () => {
                             </h3>
                             <span className="skills_level">
                             Intermediate
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div className="skills_group">
+                    <div className="skills_data">
+                        <i class='bx bx-badge-check' ></i>
+
+                        <div>
+                            <h3 className="skills_name">
+                                Redux
+                            </h3>
+                            <span className="skills_level">
+                            Basics
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div className="skills_group">
+                    <div className="skills_data">
+                        <i class='bx bx-badge-check' ></i>
+
+                        <div>
+                            <h3 className="skills_name">
+                                Next js
+                            </h3>
+                            <span className="skills_level">
+                            Basics
                             </span>
                         </div>
                     </div>
