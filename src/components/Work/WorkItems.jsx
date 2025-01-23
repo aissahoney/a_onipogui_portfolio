@@ -9,9 +9,10 @@ const WorkItems = ({item}) => {
     <img src={item.image} className='work_img' alt="project-image" />
   </a>
         <h3 className="work_title">{item.title}</h3>
-        <p className="work_language">{item.language}</p>
+      <a href={item.old} target='blank'>
+        <p className="work_button"> <i className="bx bx-right-arrow-alt work_button-icon "></i>{item.language}</p></a> 
 <a href={item.at} target='blank' className='work_button'>
-    Demo <i className="bx bx-right-arrow-alt work_button-icon"></i>
+     <i className="bx bx-right-arrow-alt work_button-icon"></i> Demo
 </a>
 
     </div>
